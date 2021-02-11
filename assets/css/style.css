@@ -14,7 +14,7 @@ h1 {
 h4 {
 	line-height: 50px;
 	font-size: 20px;
-	text-align: justify;
+	text-align: left;
 }
 
 textarea {
@@ -88,6 +88,7 @@ p {
 	h4 {
 		line-height: 50px;
 		font-size: 40px;
+		text-align: left;
 	}
 
 	textarea {
