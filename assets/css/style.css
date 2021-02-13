@@ -20,8 +20,6 @@ h4 {
 	white-space:nowrap;
 	-webkit-animation: ketik 10s steps(1000, end);
 	animation: ketik 10s steps(1000, end);
-	animation-timing-function: steps(4, jump-start);
-	animation-timing-function: steps(10, jump-end);
 }
 
 
