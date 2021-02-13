@@ -16,8 +16,6 @@ h4 {
 	text-align: left;
 	font-size: 15px;
 	width: 740px;
-	white-space:nowrap;
-	overflow:hidden;
 	-webkit-animation: ketik 5s steps(50, end);
 	animation: ketik 5s steps(50, end);
 }
