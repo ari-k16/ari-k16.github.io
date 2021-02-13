@@ -18,7 +18,6 @@ h4 {
 	font-size: 22px;
 	width: 740px;
 	white-space:nowrap;
-	overflow:hidden;
 	-webkit-animation: ketik 10s steps(1000, end);
 	animation: ketik 10s steps(1000, end);
 }
