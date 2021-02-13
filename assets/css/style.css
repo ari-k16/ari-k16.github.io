@@ -15,20 +15,21 @@ h4 {
 	line-height: 50px;
 	text-align: left;
 	font-size: 15px;
+	font-size: 22px;
+	width: 740px;
+	white-space:nowrap;
+	overflow:hidden;
 	-webkit-animation: ketik 5s steps(50, end);
 	animation: ketik 5s steps(50, end);
-	overflow:hidden;
 }
 
 
-@keyframes h4 {
-	from {width: 0;}
-	steps();
+@keyframes ketik{
+		from { width: 0; }
 }
 
-@-webkit-keyframes h4 {
-	from {width: 0;}
-	steps();
+@-webkit-keyframes ketik{
+		from { width: 0; }
 }
 
 textarea {
