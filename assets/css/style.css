@@ -19,8 +19,8 @@ h4 {
 	width: 740px;
 	white-space:nowrap;
 	overflow:hidden;
-	-webkit-animation: ketik 10s steps(400, end);
-	animation: ketik 10s steps(400, end);
+	-webkit-animation: ketik 10s steps(900, end);
+	animation: ketik 10s steps(900, end);
 }
 
 
