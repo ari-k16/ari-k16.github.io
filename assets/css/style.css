@@ -15,6 +15,8 @@ h4 {
 	line-height: 50px;
 	text-align: left;
 	font-size: 15px;
+	-webkit-animation: ketik 10s steps(1000, end);
+	animation: ketik 10s steps(1000, end);
 }
 
 
