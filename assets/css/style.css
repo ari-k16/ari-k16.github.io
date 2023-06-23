@@ -1,0 +1,198 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+/*  */
+
+nav.navbar.navbar-light.bg-light {
+	top: 0;
+	position: fixed;
+	width: 100%;
+	z-index: 1;
+}
+
+a.navbar-brand img {
+	width: 80px;
+	height: 80px;
+}
+
+a.navbar-brand span.portfolio {
+	color: #0080ff;
+}
+
+a.navbar-brand span.web {
+	color: #0080ff;
+}
+
+/*  */
+
+div.col.mb-6-profile {
+	margin-top: 50px;
+}
+
+div.col.mb-6-foto-profile {
+	margin-top: 10px;
+}
+
+div.row-profile {
+	margin-left: 20px;
+	margin-top: 80px;
+}
+
+div.col.mb-6-foto-profile {
+	margin-top: 50px;
+}
+
+div.row-foto-profile img {
+	width: 450px;
+	height: 450px;
+	float: right;
+}
+
+/*  */
+div.row.row-cols-md-4 {
+	margin-top: 50px;
+}
+
+/*  */
+div.row-html {
+	margin-left: 20px;
+}
+
+div.row-html img {
+	width: 100px;
+	height: 100px;
+}
+
+div.row-css img {
+	width: 100px;
+	height: 100px;
+}
+
+div.row-bootstrap img {
+	width: 150px;
+	height: 100px;
+}
+
+div.row-php img {
+	width: 100px;
+	height: 100px;
+}
+
+div.row-facebook {
+	margin-left: 20px;
+}
+
+div.row-facebook img {
+	width: 100px;
+	height: 100px;
+}
+
+div.row-facebook p {
+	margin-top: 10px;
+}
+
+div.row-gmail img {
+	width: 100px;
+	height: 100px;
+}
+
+div.row-gmail p {
+	margin-top: 10px;
+}
+
+div.row-instagram img {
+	width: 100px;
+	height: 100px;
+}
+
+div.row-instagram p {
+	margin-top: 10px;
+}
+
+div.row-telegram img {
+	width: 100px;
+	height: 100px;
+}
+
+div.row-telegram p {
+	margin-top: 10px;
+}
+
+h2.display-4 {
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+
+/*  */
+.footer {
+    flex-direction: row;
+    width: auto;
+    height: auto;
+    overflow: auto;
+    background-color: #f2f2f2;
+    color: var(--footer-color);
+}
+
+.footer-left {
+    width: 40%;
+    float: left;
+    margin: 0;
+    text-align: left;
+    flex-direction: row;
+    height: auto;
+    overflow: auto;
+    background-color: #f2f2f2;
+    color: var(--footer-color);
+}
+
+.footer-left p {
+    text-align: center;
+    margin-top: 20px; 
+}
+
+.footer-left a {
+    text-decoration: none;
+    color: black;
+}
+
+.footer-left a:hover {
+    color: blue;
+}
+
+.footer-middle {
+    width: 20%;
+    float: left;
+    margin: 0;
+    text-align: left;
+}
+
+.footer-middle h4 {
+    text-align: center;
+    margin-top: 20px; 
+}
+
+.footer-right {
+    width: 40%;
+    float: left;
+    margin: 0;
+    text-align: left;
+    text-align: center;
+}
+
+.footer-right p {
+    text-align: center;
+    margin-top: 20px; 
+}
+
+.footer-right a {
+    text-decoration: none;
+    color: black;
+
+ }
+
+ .footer-right a:hover {
+    color: blue;
+}
